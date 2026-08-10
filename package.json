@@ -1,6 +1,6 @@
 {
   "name": "doc-consistency",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check a long document against itself — cross-reference integrity, numbering continuity, terminology drift, TOC-vs-body mismatch, leftover placeholders, merge loss. Offline, deterministic, zero dependencies.",
   "keywords": [
     "document-consistency",
