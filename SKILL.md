@@ -1,19 +1,9 @@
 ---
 name: doc-consistency
 version: 1.0.0
-description: |
-  Check a long document against itself — cross-reference integrity, numbering
-  continuity, terminology drift, missing standard sections, TOC-vs-body mismatch,
-  leftover placeholders, and paragraphs lost in a merge. Runs entirely offline
-  with zero dependencies: no network, no upload, no model calls, so the document
-  never leaves the machine. Reads .docx / .md / .txt and emits a findings list
-  that locates every issue, plus a re-check command you can put in a contract.
-  Use when the user asks to proofread, QA, sanity-check, or verify the internal
-  consistency of a textbook, bid/proposal/RFP response, manual, thesis, contract
-  set, or book manuscript — or says 长文档一致性 / 交叉引用 / 编号跳号 / 术语不统一 /
-  合稿丢段 / 标书自检 / 稿件体检 / 定稿前检查 / 教材编号核对.
-tags: ["document", "consistency", "cross-reference", "proofreading", "docx", "publishing", "proposal", "rfp", "offline", "zero-dependency"]
+description: "Check a long document against itself — dangling cross-references, numbering gaps and duplicates, TOC-vs-body mismatch, missing standard sections, terminology drift, leftover placeholders (TODO/TBD/XXX), stale years, and paragraphs lost in a merge. Reads .docx / .md / .txt and emits a located findings list plus a re-check command you can put in a contract. Runs fully offline with zero dependencies: no network, no upload, no model calls, so the document never leaves the machine. Use when the user asks to proofread, QA, sanity-check, or verify the internal consistency of a textbook, manuscript, bid or RFP response, manual, thesis, or contract set; or asks for a cross-reference audit, numbering audit, continuity check, or editorial consistency check; or says 长文档一致性 / 交叉引用 / 编号跳号 / 重号 / 术语不统一 / 合稿丢段 / 目录对不上 / 标书自检 / 稿件体检 / 定稿前检查 / 教材编号核对."
 license: MIT
+tags: ["document", "consistency", "cross-reference", "proofreading", "docx", "publishing", "proposal", "rfp", "offline", "zero-dependency"]
 ---
 
 # doc-consistency · 长文档一致性体检
