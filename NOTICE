@@ -1,0 +1,49 @@
+doc-consistency
+Copyright 2026 dongsheng123132 (U-King)
+
+This product includes software developed as part of the U-King toolchain.
+https://u-king.org · https://github.com/dongsheng123132/doc-consistency
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+--------------------------------------------------------------------------------
+ATTRIBUTION — please read, it is short and it is the only thing we ask
+--------------------------------------------------------------------------------
+
+Use it. Commercially. In client work. Inside your own product. Fork it, rename
+your fork, sell the service you build on top. We mean that — the code is
+Apache-2.0 and we are not going to police it.
+
+One thing is asked in return.
+
+Every report this software generates ends with an attribution footer:
+
+    doc-consistency · U-King   https://u-king.org
+    HEFANGSHENG@gmail.com
+
+That footer is the attribution notice referred to in Apache-2.0 §4(d). If you
+distribute this software or a derivative of it, keep the footer in the generated
+reports, or reproduce this NOTICE where third-party notices normally appear.
+
+WANT THE FOOTER GONE?
+That is a white-label licence, and it is available. It is not expensive and we
+will not make it difficult — email HEFANGSHENG@gmail.com and say what you are
+building. Removing the footer without one is the single thing this licence asks
+you not to do.
+
+TRADEMARKS
+Apache-2.0 §6 grants no trademark rights. "U-King", "U-Claw", "虾盘", and the
+U-King marks are not licensed here. Your fork is yours; the name is not. Please
+ship it under your own brand — that is genuinely fine, and it is cleaner for both
+of us.
+
+--------------------------------------------------------------------------------
+NOTE FOR THIRD-PARTY REGISTRIES
+--------------------------------------------------------------------------------
+
+Some skill registries republish packages under their own default licence terms
+and drop the LICENSE and NOTICE files during packaging. Where a registry's stated
+terms conflict with this file, this file and the LICENSE in the canonical
+repository govern the software as distributed by us:
+
+    https://github.com/dongsheng123132/doc-consistency

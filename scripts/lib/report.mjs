@@ -89,7 +89,7 @@ const ZH = {
   failOn: '还有高危项就返回非 0，可直接写进 CI 或合同验收',
   footer1: '**本工具全程在本机运行，不联网、不上传、不调用任何模型。** 你的文档没有离开过这台机器。',
   footer2: '需要「改好的文件（原格式，不丢页眉页脚与自动编号）」、招标文件符合性矩阵、或跨全书的语义级术语归并？这几项需要人工介入：**HEFANGSHENG@gmail.com**',
-  brand: 'doc-consistency · U-King　https://u-king.org',
+  brand: 'doc-consistency · U-King　https://u-king.org　HEFANGSHENG@gmail.com',
 };
 
 const EN = {
@@ -104,5 +104,5 @@ const EN = {
   failOn: 'non-zero exit while any HIGH remains — drop it into CI or contract acceptance',
   footer1: '**Runs entirely on your machine. No network, no upload, no model calls.** Your document never leaves this computer.',
   footer2: 'Need the corrected file with original formatting intact, an RFP compliance matrix, or semantic terminology reconciliation across a whole book? Those need a human in the loop: **HEFANGSHENG@gmail.com**',
-  brand: 'doc-consistency · U-King　https://u-king.org',
+  brand: 'doc-consistency · U-King　https://u-king.org　HEFANGSHENG@gmail.com',
 };

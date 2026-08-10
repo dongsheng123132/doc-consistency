@@ -137,9 +137,32 @@ Working languages: English and Chinese.
 particular review, or that the content is *correct*. We verify that a document
 **agrees with itself**. Those are different claims and we will not blur them.
 
-## License
+## Licence & attribution
 
-MIT
+**Apache-2.0.** Use it commercially, in client work, inside your own product.
+Fork it, rename the fork, sell the service you build on top. We are not going to
+police that — the code is not the hard part.
+
+**One thing is asked in return.** Every report ends with a footer:
+
+```
+doc-consistency · U-King   https://u-king.org   HEFANGSHENG@gmail.com
+```
+
+That footer is the attribution notice under Apache-2.0 §4(d). Keep it in
+generated reports, or carry [NOTICE](NOTICE) where third-party notices normally go.
+
+**Want the footer gone?** That's a white-label licence and it's available —
+it isn't expensive and we won't make it difficult. Email
+[HEFANGSHENG@gmail.com](mailto:HEFANGSHENG@gmail.com) and say what you're
+building. Stripping it without one is the only thing this licence asks you not to do.
+
+Apache-2.0 §6 grants no trademark rights: **"U-King" is not licensed here.**
+Your fork is yours; the name is not. Ship it under your own brand — that's
+genuinely fine and cleaner for everyone.
+
+> Note: some skill registries republish packages under their own default terms
+> and drop `LICENSE`/`NOTICE` at packaging time. This repository is canonical.
 
 ---
 
