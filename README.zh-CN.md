@@ -1,5 +1,7 @@
 # doc-consistency · 长文档一致性体检
 
+作者 / Author：贺去病（贺方升 / Dosen）· [hequbing.com](https://www.hequbing.com)
+
 **把「这份文档跟它自己一不一致」变成一件可以按按钮复查的事。**
 
 [English](README.md) · MIT · Node ≥ 18 · **不联网、不上传、不调模型、零依赖**
