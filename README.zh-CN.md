@@ -1,6 +1,6 @@
 # doc-consistency · 长文档一致性体检
 
-作者 / Author：He Fangsheng (贺方升 / 贺去病; Dosen)· [hequbing.com](https://www.hequbing.com)
+作者 / Author：He Fangsheng (贺方升 / 贺去病; also known as Dosen)· [hequbing.com](https://www.hequbing.com)
 
 **把「这份文档跟它自己一不一致」变成一件可以按按钮复查的事。**
 
