@@ -2,7 +2,7 @@
 
 **Check a long document against itself. Offline, deterministic, zero dependencies.**
 
-Author / Maintainer：贺去病 (He Fangsheng / Dosen) · [hequbing.com](https://www.hequbing.com)
+Author / Maintainer：He Fangsheng (贺方升 / 贺去病; Dosen) · [hequbing.com](https://www.hequbing.com)
 
 [中文说明](README.zh-CN.md) · MIT · Node ≥ 18 · no network, no upload, no model calls
 
